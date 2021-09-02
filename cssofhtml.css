@@ -1,0 +1,48 @@
+.para 
+    {
+        border: 5px solid rgb(190, 228, 55);
+        padding: 2em;
+        margin: 20px;
+        width: fit-content;
+        height: fit-content;
+        float:left;
+    }
+h2
+    {
+        font-size: 350%;
+        font-style: italic;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-variant: small-caps;
+    }
+ol
+    {
+        font-size: 150%;
+        font-style: italic;
+        font-family: cursive;
+        list-style: decimal;
+    }
+ul ul
+    {
+        font-size: 100%;
+        font-style: italic;
+        font-family:cursive;
+    }
+ul
+    {
+        font-size: 150%;
+        font-style: italic;
+        font-family:cursive;                
+    }
+body{
+    background-color: rgb(160, 209, 241);
+    }
+h1
+    {
+        font-size: 350%;
+        font-style: italic;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;      
+    }
+.container
+    {
+        display: flex;
+    }
